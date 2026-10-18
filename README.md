@@ -1,6 +1,21 @@
 # Housing-Market-Analysis-European-Union, 
 ## NUTS 2 Regions
+## Main findings
 
+The three analytical approaches lead to a consistent conclusion: the 2022 housing market across NUTS 2 regions was strongly heterogeneous.
+
+Three broad regional profiles emerge:
+
+1. Stronger urban-economic regions  
+   These are dominated by many German, Belgian and Scandinavian regions and tend to display higher income, stronger urban-economic conditions, and more favorable housing market profiles.
+
+2. Weaker peripheral regions  
+   These include several Eastern and Central European regions and are characterized by weaker economic and urban strength.
+
+3. Distinct Southern European regions  
+   Mainly from Spain, Italy and Portugal, these regions are differentiated less by pure economic strength and more by climatic and labour-market conditions.
+
+Overall, the results suggest that regional housing market differences in 2022 reflected deeper territorial inequalities in economic development, vulnerability, urban structure, and local context.
 ## Overview
 
 This project examines regional differences in the housing market across NUTS 2 regions in 2022. The analysis combines descriptive statistics, Principal Component Analysis (PCA), factor analysis, and cluster analysis in order to identify the main structural dimensions of regional housing market variation and to group regions with similar profiles.
@@ -75,22 +90,7 @@ Using hierarchical clustering and k-means, the analysis supports a three-cluster
 - weaker and more peripheral regions
 - a distinct Southern European group shaped mainly by climatic and labour-market conditions
 
-## Main findings
 
-The three analytical approaches lead to a consistent conclusion: the 2022 housing market across NUTS 2 regions was strongly heterogeneous.
-
-Three broad regional profiles emerge:
-
-1. Stronger urban-economic regions  
-   These are dominated by many German, Belgian and Scandinavian regions and tend to display higher income, stronger urban-economic conditions, and more favorable housing market profiles.
-
-2. Weaker peripheral regions  
-   These include several Eastern and Central European regions and are characterized by weaker economic and urban strength.
-
-3. Distinct Southern European regions  
-   Mainly from Spain, Italy and Portugal, these regions are differentiated less by pure economic strength and more by climatic and labour-market conditions.
-
-Overall, the results suggest that regional housing market differences in 2022 reflected deeper territorial inequalities in economic development, vulnerability, urban structure, and local context.
 
 ## Repository structure
 
