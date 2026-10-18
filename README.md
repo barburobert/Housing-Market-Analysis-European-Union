@@ -1,5 +1,5 @@
 # Housing-Market-Analysis-European-Union, 
-## NUTS 2 Regions
+### Author: Robert-Florian Barbu
 ## Main findings
 
 The three analytical approaches lead to a consistent conclusion: the 2022 housing market across NUTS 2 regions was strongly heterogeneous.
